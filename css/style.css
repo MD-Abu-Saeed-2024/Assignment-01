@@ -270,3 +270,61 @@ a {
   opacity: 0.7;
   margin: 8px 0 24px 0;
 }
+
+/*----------------------------------------------------------------- My Next Target--------------------------------------------- */
+#next-target {
+  margin-top: 110px;
+}
+
+.next-target-menu {
+  text-align: center;
+}
+.next-target-h3-text {
+  color: #0d1321;
+  text-align: center;
+  font-family: "Azeret Mono";
+  font-size: 32px;
+  font-weight: 800;
+}
+.next-target-p-text {
+  color: #0d1321;
+  text-align: center;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  opacity: 0.7;
+  padding: 24px 277px;
+}
+
+/* -------------------next-target-card ----------------*/
+.next-target-card-menu-wraper {
+  margin-top: 48px;
+}
+.next-target-card-one-menu {
+  border-radius: 16px;
+  border: 0.2px solid #00000027;
+  padding: 40px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 24px;
+}
+.target-card-h5-text {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 36px; /* 150% */
+}
+.target-card-p2nd-text {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  opacity: 0.7;
+  padding: 8px 0 24px 0;
+}
+.next-target-card-picther{
+  padding-right: 24px;
+}
