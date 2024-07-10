@@ -200,7 +200,7 @@ a {
   padding: 0 200px;
 }
 
-/* --------------------------------------------------------------iframe---------------------------------- */
+/* --------------------------------------------------------------iframe -Video---------------------------------- */
 #iframe-video {
   height: 660px;
   border: solid 2px red;
@@ -214,3 +214,59 @@ a {
   border: 1px solid rgba(13, 19, 33, 0.2);
 }
 
+/*-----------------------------------------------------------My-Current-Target ---------------------------*/
+#my-current-target {
+  margin-top: 150px;
+}
+.current-target-menu-wraper {
+  text-align: center;
+}
+.current-target-h3-text {
+  color: #0d1321;
+  text-align: center;
+  font-family: "Azeret Mono";
+  font-size: 32px;
+  font-weight: 800;
+}
+.current-target-p-text {
+  color: #0d1321;
+  text-align: center;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  opacity: 0.7;
+  padding: 24px 350px 0 350px;
+}
+/* -------------------Card Design----------------- */
+.target-card-menu {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 48px;
+}
+.target-card-one {
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+  padding: 40px;
+  border-radius: 16px;
+}
+.target-card-one-2nd {
+  padding: 40px;
+  border-radius: 16px;
+}
+.target-card-h3-text {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 24px;
+}
+.target-card-p-text {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  opacity: 0.7;
+  margin: 8px 0 24px 0;
+}
