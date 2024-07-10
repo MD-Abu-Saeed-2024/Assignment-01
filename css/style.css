@@ -37,7 +37,6 @@ a {
   border: 1px solid #0d1321;
   opacity: 0.8;
   cursor: pointer;
-  
 }
 
 /*--------------------------------------------------------Header part---------------------------------*/
@@ -65,7 +64,7 @@ a {
   font-size: 48px;
   font-weight: 800;
   line-height: 68px; /* 141.667% */
-  margin:34px 0 24px 0;
+  margin: 34px 0 24px 0;
 }
 .header-banner-p-text {
   color: #0d1321;
@@ -76,3 +75,142 @@ a {
   line-height: 26px; /* 162.5% */
   margin-bottom: 32px;
 }
+/* -------------------------------------------------------Why Web Development---------------------------------- */
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+#web-development-section-color {
+  margin-top: 74px;
+  height: 1394px;
+  width: 100%;
+  border-radius: 16px;
+  background: rgba(13, 19, 33, 0.02);
+}
+#web-development-container {
+  width: 80%;
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.web-development-h4-text {
+  color: #0d1321;
+  text-align: center;
+  font-family: "Azeret Mono";
+  font-size: 32px;
+  font-weight: 800;
+  margin-top: 80px;
+}
+.web-development-p-text {
+  color: #0d1321;
+  text-align: center;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  opacity: 0.7;
+  margin-top: 24px;
+}
+/*------------------------------------------------Layer-section------------------------------*/
+.card-one-menu {
+  margin-top: 48px;
+}
+.card-one-content {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: 48px;
+}
+.content-menu-wraper {
+  width: 50%;
+}
+.one-picther {
+  width: 50%;
+  display: flex;
+  justify-content: end;
+}
+.tow-picther {
+  width: 40%;
+  display: flex;
+  justify-content: start;
+}
+
+.content-one-h4 {
+  color: rgba(13, 19, 33, 0.7);
+  font-family: "Azeret Mono";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px; /* 150% */
+  padding-right: 163px;
+}
+.content-one-h4-2nd {
+  color: rgba(13, 19, 33, 0.7);
+  font-family: "Azeret Mono";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px; /* 150% */
+  padding-right: 100px;
+}
+.one-content-p-text {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  opacity: 0.7;
+  margin-top: 16px;
+}
+.one-content-btn {
+  color: #0d1321;
+  text-align: center;
+  font-family: "Azeret Mono";
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 25px;
+  padding: 12px 20px;
+}
+
+/*----------------------------------------------------------My Inspiration--------------------------------------------------- */
+#inpsiration {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 100px;
+}
+.inpsiration-h4-text {
+  color: #0d1321;
+  text-align: center;
+  font-family: "Azeret Mono";
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 800;
+}
+.inpsiration-p-text {
+  color: #0d1321;
+  text-align: center;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  opacity: 0.7;
+  margin-top: 24px;
+  padding: 0 200px;
+}
+
+/* --------------------------------------------------------------iframe---------------------------------- */
+#iframe-video {
+  height: 660px;
+  border: solid 2px red;
+  margin-top: 48px;
+  display: flex;
+  justify-content: center;
+  padding: 32px;
+  /* gap: 10px; */
+  align-self: stretch;
+  border-radius: 16px;
+  border: 1px solid rgba(13, 19, 33, 0.2);
+}
+
